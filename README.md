@@ -1,6 +1,6 @@
 ### Hi there 👋, Albin Reji
 #### Python Developer
-![github_portfolio_bannerr](https://github.com/Albin-Reji/Albin-Reji/assets/132434023/0102aa76-8ddb-4da0-8f83-afa908699dc1)
+![github_portfolio_bannerr](https://github.com/Albin-Reji/Albin-Reji/assets/132434023/f4cd6c7b-2eef-490a-96cc-531834030bb1)
 
 
 
