@@ -8,7 +8,8 @@ Hi there! I’m Albin Reji , a computer science student . I really enjoy learnin
 
 Skills: 
 1. Python
-2. C
+2. Java
+3. GUI development
 
 - 🔭 I’m currently working on this page. 
 
