@@ -1,4 +1,4 @@
-![github_portfolio_bannerr](https://github.com/Albin-Reji/Albin-Reji/assets/132434023/f4cd6c7b-2eef-490a-96cc-531834030bb1)
+![github_portfolio_bannerr](banner.png)
 
 # Albin Reji - Software Developer
 
