@@ -11,19 +11,34 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science & Engineering student** passionate about web development, machine learning, and blockchain technologies. Currently in my third year at the **Mangalore Institute of Technology & Engineering**, I have worked on various projects and internships that have honed my skills in backend development and data science.
+I am a **Computer Science & Engineering student** with a passion for web development, machine learning, and blockchain technologies. Currently in my third year at the **Mangalore Institute of Technology & Engineering**, I have worked on various projects and internships that have honed my skills in backend development and data science.
 
-I’m constantly looking for opportunities to grow, learn, and apply my skills to solve real-world problems.
+I’m constantly seeking opportunities to grow, learn, and apply my skills to solve real-world problems.
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages**: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-- **Frameworks**: ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-- **Web Development**: ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-- **Databases**: ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-- **Tools**: ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat-square&logo=pycharm&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+- **Languages**: 
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) 
+  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+  
+- **Frameworks**: 
+  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) 
+  ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+  
+- **Web Development**: 
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+- **Databases**: 
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
+  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+
+- **Tools**: 
+  ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat-square&logo=pycharm&logoColor=white) 
+  ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -92,7 +107,7 @@ Worked on predicting heart attack risks using machine learning models in Jupyter
 ## 🎯 Hobbies & Interests
 
 - **Programming**: Actively participating in coding challenges and hackathons to improve problem-solving skills.
-- **Movies**: Watching films and documentaries, especially those related to technology and artificial intelligence.
+- **Movies**: Enjoying films and documentaries, especially those related to technology and artificial intelligence.
 
 ---
 
@@ -102,6 +117,13 @@ Feel free to reach out for any inquiries, collaborations, or opportunities!
 📧 **Email**: albinrejim30@gmail.com  
 📞 **Phone**: +91-8123160330  
 🔗 [LinkedIn](https://www.linkedin.com/in/albin--reji/) | [GitHub](https://github.com/Albin-Reji)
+
+---
+
+## 📄 Resume
+
+[Download my resume](link-to-your-resume.pdf)
+
 
 
 
