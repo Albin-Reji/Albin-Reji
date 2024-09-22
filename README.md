@@ -122,7 +122,7 @@ Feel free to reach out for any inquiries, collaborations, or opportunities!
 
 ## 📄 Resume
 
-[Download my resume](link-to-your-resume.pdf)
+[Download my resume](albinreji_resume.pdf)
 
 
 
