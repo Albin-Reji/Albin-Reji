@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Albin%20Reji-blue)](https://www.linkedin.com/in/albin--reji/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Albin--Reji-black)](https://github.com/Albin-Reji)  
 📧 **albinrejim30@gmail.com**  
-📞 **+91-8123160330**
 
 ---
 
@@ -115,7 +114,6 @@ Worked on predicting heart attack risks using machine learning models in Jupyter
 
 Feel free to reach out for any inquiries, collaborations, or opportunities!  
 📧 **Email**: albinrejim30@gmail.com  
-📞 **Phone**: +91-8123160330  
 🔗 [LinkedIn](https://www.linkedin.com/in/albin--reji/) | [GitHub](https://github.com/Albin-Reji)
 
 ---
