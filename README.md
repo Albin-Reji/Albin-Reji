@@ -56,13 +56,13 @@ I’m constantly seeking opportunities to grow, learn, and apply my skills to so
 Developed a secure real-time chat application with Spring Boot microservices and ReactJS frontend. Implemented JWT, OAuth 2.0, Spring Security, and Eureka Service Registry to enable smooth user login, routing, and messaging.
 
 ---
-### 2. [Virtual Time Capsule Application](https://github.com/Albin-Reji/Image-Editor)
+### 2. [Virtual Time Capsule Application](https://github.com/Albin-Reji/virtual_time_capsule)
 **Technologies**:Spring Boot, Spring Security, Spring Scheduling, PostgreSQL, JSP  
 **Role**: Lead Full Stack Developer 
 Created a web application to schedule messages for later delivery with user authentication. Used JWT and Spring Security for secure access, and Spring Scheduling for time-based automation. Backend functionality built with PostgreSQL and dynamic display with JSP.
 
 ---
-### 3. [CNN-Based Osteoporosis Detection Using Medical Imaging](https://github.com/Albin-Reji/Image-Editor)
+### 3. [CNN-Based Osteoporosis Detection Using Medical Imaging](https://github.com/Albin-Reji/Osteoporosis_detection)
 **Technologies**:  Python, TensorFlow, Keras
 **Role**: Machine Learning Developer
 Developed a deep learning model with 96.72% accuracy for classifying osteoporosis from X-ray images. Utilized Transfer Learning and Attention Mechanisms for improved feature extraction and explainability.
